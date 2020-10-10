@@ -5,7 +5,6 @@ I'm a currenlty a student at the University of Tennessee Knoxville.
 
 My major is Mechanical Engineering and minor is Computer Science
 
-<a href="https://docs.google.com/document/d/1KH46o2LjNzi4L6Zeed52GM8-atGMIOOqux-QBTELj3k/edit?usp=sharing" target="_blank"> My Resume 🔗</a>
 
 <a href="https://github.com/a-abir">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=a-abir&show_icons=true&include_all_commits=true" alt="Abir's github stats" />
