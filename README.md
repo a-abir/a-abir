@@ -13,3 +13,6 @@ My major is Mechanical Engineering and minor is Computer Science
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&layout=compact" />
 </a>
+
+---
+[Brief Resume](Resume.md)
