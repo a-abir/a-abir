@@ -71,25 +71,5 @@ My major is Mechanical Engineering and minor is Computer Science
 - English, Bengali, Spanish, Hindi
 
 
-#### RELEVANT COURSE
-- MATH 241 - Multivariable Calculus
-- EF 151 - Physics for Engineers
-- COSC 102 - Intro to Comp. Science
-- PHIL 101 - Intro to Philosophy
-- UNHO101 - Honors FYS.
-
-#### PAST COURSES
-- MATH 141 - Calculus I
-- MATH 142 - Calculus II
-- PHYS 222 - Elem. of Physics
-- ENGL 101 - English Comp. I 
-- ENGL 102 - English Comp. II
-- POLS 101 - US. Gov and Politics
-
-
-#### SUPPLEMENTARY
-- ###### [Highschool Details](https://docs.google.com/document/d/e/2PACX-1vQoDeMuQoXeo9wMTS_866dthLqFHTI2Y9wrBArIjBsVcLrYLdQFHsgUomDp4Kh_2RjRWO-1F4i7cPKo/pub) |
-
-
 
 
