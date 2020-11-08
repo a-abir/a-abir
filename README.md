@@ -15,4 +15,4 @@ My major is Mechanical Engineering and minor is Computer Science
 </a>
 
 ---
-[Brief Resume](Resume.md)
+#### [Brief Resume](Resume.md)
