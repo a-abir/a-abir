@@ -45,10 +45,8 @@ My major is Mechanical Engineering and minor is Computer Science
 - Built, managed, and maintained the robotic team&#39;s website. **Website** /[_soknorobo.com_](https://soknorobo.com/) **Code** /[_GitHub_](https://github.com/a-abir/South-Doyle)
 
 ### PERSONAL PROJECTS
-
-###### Minibot Curriculum: Developed robotics library, documentation, and curriculum for SDHS Engineering Course. Docs/[_Readthedocs_](https://minibot.readthedocs.io/), Code/[_GitHub_](https://github.com/a-abir/minibot), Module/[_PyPI_](https://pypi.org/project/minilib/)
-
-###### Vision processing Workshop: Created and led a yearly robotics community machine vision tutorial and workshop. Code/[_GitHub_](https://github.com/a-abir/visionProcessingCV), Slides/[_GoogleSlides_](https://docs.google.com/presentation/d/1uTE1bVlFKwdo3SVFsP8bRh-AGqmWlPTIJwrbpo5JXm8/edit?usp=sharing)
+- Minibot Curriculum: Developed robotics library, documentation, and curriculum for SDHS Engineering Course. Docs/[_Readthedocs_](https://minibot.readthedocs.io/), Code/[_GitHub_](https://github.com/a-abir/minibot), Module/[_PyPI_](https://pypi.org/project/minilib/)
+-  Vision processing Workshop: Created and led a yearly robotics community machine vision tutorial and workshop. Code/[_GitHub_](https://github.com/a-abir/visionProcessingCV), Slides/[_GoogleSlides_](https://docs.google.com/presentation/d/1uTE1bVlFKwdo3SVFsP8bRh-AGqmWlPTIJwrbpo5JXm8/edit?usp=sharing)
 
 ### SKILLS
 - Computer-Aided Design: [Autocad](https://www.autodesk.com/products/autocad/overview), [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
