@@ -10,11 +10,11 @@ My <b>major</b> is <i><b>Mechanical Engineering</b></i> and <b>minor</b> is <i><
 <hr>
 
 <a href="https://github.com/a-abir">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=a-abir&show_icons=true&include_all_commits=true" alt="Abir's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=a-abir&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Abir's github stats" />
 </a>
 <a href="https://github.com/a-abir">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&layout=compact&theme=tokyonight" />
 </a>
 
 <hr>
