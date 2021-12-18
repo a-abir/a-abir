@@ -1,8 +1,8 @@
 <h3> Hey! I'm <a href="https://github.com/a-abir"> Abrian Abir </a> . I usually go by Abir. </h3>
 
 <p color="gray"> 
-I'm a currenlty a student at the <i style="color:f77f00">University of Tennessee</i> Knoxville. <br>
-My <b>major</b> is <i><b>Mechanical Engineering</b></i> and <b>minor</b> is <i><b>Computer Science</b></i>
+I'm currenlty a student at the <i style="color:f77f00">University of Tennessee</i> Knoxville. <br>
+I am seeking a Bachelor of Science <b>major</b> in <i><b>Mechanical Engineering</b></i> and <b>minor</b> in <i><b>Computer Science</b></i>
 </p>
 
 <hr>
