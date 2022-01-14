@@ -10,11 +10,13 @@ I am seeking a Bachelor of Science <b>major</b> in <i><b>Mechanical Engineering<
 <hr>
 
 <a href="https://github.com/a-abir">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=a-abir&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Abir's github stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abir&show_icons=true&theme=radical" alt="Abir's github stats" />
 </a>
 <a href="https://github.com/a-abir">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&layout=compact&theme=tokyonight" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&theme=radical&layout=compact" />
 </a>
 
 <hr>
