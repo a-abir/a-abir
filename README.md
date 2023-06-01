@@ -11,7 +11,7 @@ I am seeking a Bachelor of Science <b>major</b> in <i><b>Mechanical Engineering<
 
 <a href="https://github.com/a-abir">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abir&show_icons=true&theme=radical" alt="Abir's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abir&show_icons=true&theme=radical&rank_icon=github" alt="Abir's github stats" />
 </a>
 <a href="https://github.com/a-abir">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
