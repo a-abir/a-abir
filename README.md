@@ -2,7 +2,7 @@
 
 <p color="gray"> 
 I'm currenlty a student at the <i style="color:f77f00">University of Tennessee</i> Knoxville. <br>
-I am seeking a Masters of Science <b>major</b> in <i><b>Mechanical Engineering</b></i>.
+I am seeking a Masters of Science in <i><b>Mechanical Engineering</b></i>. <br>
 I graduated with a Bachelors of Science <b>major</b> in <i><b>Mechanical Engineering</b></i> and <b>minor</b> in <i><b>Computer Science</b></i>
 </p>
 
