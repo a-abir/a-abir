@@ -1,23 +1,52 @@
-<h3> Hey! I'm <a href="https://github.com/a-abir"> Abrian Abir </a> . I usually go by Abir. </h3>
+<div align="center">
 
-<p color="gray"> 
-I'm currenlty a student at the <i style="color:f77f00">University of Tennessee</i> Knoxville. <br>
-I am seeking a Masters of Science in <i><b>Mechanical Engineering</b></i>. <br>
-I graduated with a Bachelors of Science, <b>majoring</b> in <i><b>Mechanical Engineering</b></i> and with a <b>minor</b> in <i><b>Computer Science</b></i>
-</p>
+# Hi there, I'm **Abrian Abir** 👋  
+*Applications Engineer & Research Assistant | Mechanical Engineering & Computer Science*
 
-<hr>
-<h4> <a href="Resume.md"> Brief Resume </a> </h4>
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-abir/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-abir)
+[![Resume](https://img.shields.io/badge/Resume-📄-orange?style=for-the-badge)](Resume.md)
 
-<a href="https://github.com/a-abir">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abir&show_icons=true&theme=radical&rank_icon=github" alt="Abir's github stats" />
-</a>
-<a href="https://github.com/a-abir">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&theme=radical&layout=compact" />
-</a>
+</div>
 
-<hr>
+---
+
+### 🚀 About Me
+
+I specialize in the intersection of mechanical engineering, manufacturing process monitoring, and computational data analysis.
+
+- 🎓 **Education:** M.S. in Mechanical Engineering, University of Tennessee, Knoxville
+- 🎓 **Undergraduate:** B.S. in Mechanical Engineering with a minor in Computer Science
+- 🔬 **Research Focus:** Solid-state metal additive manufacturing (AFSD), statistical signal processing, and process anomaly detection
+- 💻 **Tech Stack:** Python, C++, MATLAB, OpenCV, SciPy, pandas, NumPy
+
+---
+
+### 📊 GitHub Activity & Tech Stack
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abir&show_icons=true&theme=radical&rank_icon=github" alt="Abir's GitHub stats" />
+
+<br/><br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abir&theme=radical&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🛠 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by Abrian Abir</sub>
+</div>
