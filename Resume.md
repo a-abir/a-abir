@@ -1,75 +1,85 @@
+# ABRIAN ABIR, M.S., E.I.T.
+Knoxville, TN | abrian.inbox@gmail.com
+
 ### LINKS
 - [ **GitHub** ](https://github.com/a-abir)
-- [ **LinkedIn** ](https://www.linkedin.com/in/abrian-abir-503a96146/)
-- [ **ORCiD** ](https://orcid.org/0000-0001-7257-1548)
+- [ **LinkedIn** ](https://www.linkedin.com/in/a-abir)
 
 ### EDUCATION
-- **University of Tennessee, Knoxville** | Master of Science in Mechanical Engineering
-  - **Thesis:** Signed 1-Wasserstein distance process signatures for anomaly detection in Additive Friction Stir Deposition (AFSD)
-- **University of Tennessee, Knoxville** | Bachelor of Science in Mechanical Engineering, Minor in Computer Science
+- **University of Tennessee, Knoxville** | Master of Science in Mechanical Engineering (GPA: 4.00/4.00)
+  - *May 2026*
+- **University of Tennessee, Knoxville** | Bachelor of Science in Mechanical Engineering, Minor in Computer Science (GPA: 3.99/4.00)
+  - *May 2024*
 
-### RESEARCH & PUBLICATIONS
-- **Manuscripts & Papers:**
-  - Process signature and dissimilarity analysis in Additive Friction Stir Deposition using optimal transport metrics (1-Wasserstein distance).
-  - [_Additive Manufacturing_](https://www.sciencedirect.com/science/article/pii/S2214860420309933), [_Linking thermoset ink rheology to the stability of 3D-printed structures_](https://www.sciencedirect.com/science/article/pii/S2214860420309933); [_doi.org/10.1016/j.addma.2020.101621_](https://doi.org/10.1016/j.addma.2020.101621)
+### LICENSES & CERTIFICATIONS
+- **Engineer-in-Training (EIT)**, TN Department of Commerce and Insurance — *Oct 15, 2025*
+- **Certified SOLIDWORKS Associate (CSWA)**, Dassault Systèmes — *Nov 27, 2023*
 
-### WORK EXPERIENCE
+### PUBLICATIONS
+- **Additive Manufacturing Letters** | Additive friction stir deposition of multi-layer aluminum-silicon carbide metal matrix composites
+- **Additive Manufacturing** | Structural stability of thin overhanging walls extrusion additive manufacturing of thermoset-based ink
+- **Additive Manufacturing** | Linking thermoset ink rheology to the stability of 3D-printed structures
+- **Journal of Manufacturing Processes** | A Dissimilarity Index for Monitoring Process in Additive Friction Stir Deposition
 
-#### **Oak Ridge National Laboratory** — *Applications Engineer (Manufacturing Systems Analytics Group)*
-- Developing and deploying data-driven analytics and process monitoring workflows for advanced manufacturing systems.
+### EXPERIENCE
 
-#### **DENSO Manufacturing Tennessee, Inc.** — *Process Engineer*
-- Managed final assembly line efficiency, root cause analysis, and manufacturing optimization routines.
+#### **Oak Ridge National Laboratory** — *Applications Engineer for Advanced Manufacturing*
+##### *Sep 2026 – Present*
+- Design, install, and calibrate advanced image-based and multi-sensor systems to ensure data integrity for machine learning applications.
+- Develop custom data acquisition software and novel sensing techniques to upgrade and maintain optical/sensing infrastructure.
+- Support cross-functional R&D projects for the Manufacturing Demonstration Facility (MDF) aligned with core ORNL mission objectives.
 
-#### **University of Tennessee, Knoxville** — *Graduate Research & Teaching Assistant*
-- Conducted experimental and computational research on solid-state metal additive manufacturing (AFSD).
-- Built automated Python pipelines for high-frequency time-series data acquisition ($15\text{ Hz}$ logging), statistical signal processing, and process anomaly detection.
-- Performed microstructural analysis via optical and digital microscopy, implementing custom image segmentation (Sobel, GLCM, LBP, Watershed) in Python and OpenCV.
-- Taught core mechanical engineering courses and laboratory sections.
+#### **Oak Ridge National Laboratory** — *Mechanical Systems Engineering Intern (SULI) – Fusion Research*
+##### *May 2024 – Aug 2024*
+- Designed adaptive topology optimization framework to generate quantitative Figures of Merit (FoM), improving cooling performance.
+- Automated multi-physics workflows by integrating HEAT and ANSYS Fluent using pyAnsys and PyGAD to reduce design iteration.
+- Validated structural integrity of WEST tokamak probes and PFCs via coupled CFD/FEA under high heat-flux and transient EM loads.
 
-#### **Oak Ridge National Laboratory** — *Tokamak Probe Engineering Intern*
-- Assisted in the mechanical design, CAD modeling, and engineering evaluation of plasma diagnostic probe assemblies.
+#### **DENSO Manufacturing Tennessee, Inc.** — *Process Engineer I – Automation & Controls*
+##### *Jun 2026 – Sep 2026*
+- Lead new product introduction, process planning, trials, and production capacity studies including line layouts and cost analysis.
+- Manage new equipment specification, procurement, installation, and automation projects (including vision-guided robotics).
+- Drive process optimization, root cause analysis, and IATF documentation for production improvements (PFMEA, PCS, Process Flows).
 
-#### **GE Vernova Hitachi Nuclear Energy** — *Fuel Performance & Design Intern*
-- Evaluated structural integrity and thermal-hydraulic performance models for nuclear fuel components.
+#### **University of Tennessee, Knoxville** — *Graduate Researcher and Teaching Instructor*
+##### *Aug 2024 – Jun 2026*
+- Engineered Python dissimilarity metrics for in-situ AFSD monitoring to enable automated defect detection from raw telemetry.
+- Implemented thermal imaging for the live tracking of temperature during microwave power characterization for enclosed components.
+- Instructed 30+ students in Mechanical Engineering Laboratory (ME 449), focused on data interpretation and technical documentation.
 
-#### **Eastman Chemical Company** — *Senior Design Project Leader*
-- Led a multi-disciplinary engineering team in solving real-world chemical processing equipment and design constraints.
+#### **University of Tennessee, Knoxville** — *Undergraduate Researcher and Teaching Assistant*
+##### *Nov 2020 – Aug 2024*
+- Designed & fabricated automated 3-point bend tester using Arduino-based custom software to characterize novel composite materials.
+- Automated elastomeric 3D print buckling and deflection analysis using Python/OpenCV, reducing manual processing time.
+- Mentored 60+ students in MATLAB and Engineering Fundamentals with faculty, managing project evaluations and weekly instruction.
 
-#### [_University of Tennessee_](https://www.utk.edu/) — *Dr. Compton Research Intern*
-##### *2018 – 2020*
-- Solely developed machine vision application to automate the data collection, analysis, and visualization of direct ink-write 3D printing experiments /Python, OpenCV/ ([_YouTube_](https://youtu.be/lsMfXgiT_Tc))
-- Independently developed desktop application and tools to aid and standardize our research group's analysis and visualization of tensile test data /Python, Tkinter/ ([_YouTube_](https://youtu.be/hydF0IuzMCE))
-- Developed website and documentation for the research group.
+#### **University of Tennessee, Knoxville** — *Research Assistant Internship*
+##### *Aug 2019 – May 2020*
+- Created Python visualization tools to standardize calculation of Young's modulus, UTS, and yield strength from raw MTS test data.
+- Developed Python machine-vision applications (OpenCV) for automated inspection and visual tracking of thermoset 3D printing.
 
-#### [_Soknorobo_](https://soknorobo.com/), [South Doyle High School](https://soknorobo.com/) — *Robotics Team Lead*
-##### *2016 – 2020*
-- Managed and led a team to design, build, and program complex robotic subsystems **Code** /[_GitHub_](https://github.com/a-abir/rc) **Robot** /[_CAD_](https://a360.co/2Hvku0d)
-- Peer taught and developed curriculum for SDHS Computer Science and Engineering/Robotics courses.
-- Built, managed, and maintained the robotics team website. **Website** /[_soknorobo.com_](https://soknorobo.com/) **Code** /[_GitHub_](https://github.com/a-abir/South-Doyle)
+#### **Eastman Chemical Company** — *Project & Controls Lead – Capstone Project*
+##### *Aug 2023 – May 2024*
+- Led full-lifecycle development of film separator prototype, managing cross-functional team coordination & system-level requirements.
+- Developed C++ closed-loop control software for dynamic motor operation, utilizing real-time sensor feedback to maintain film tension.
+- Authored technical data package, from assembly drawings to specifications, to support the transition from prototype to production.
 
-### PROJECTS & SOFTWARE
-- **Discrete-Event Manufacturing Simulation:** Built a Python-based 2D digital twin using SimPy and Pygame to model plant cycle times and machine availability.
-- **Minibot Curriculum:** Developed robotics library, documentation, and curriculum for SDHS Engineering Course. Docs/[_Readthedocs_](https://minibot.readthedocs.io/), Code/[_GitHub_](https://github.com/a-abir/minibot), Module/[_PyPI_](https://pypi.org/project/minilib/)
-- **Vision Processing Workshop:** Created and led an annual robotics community machine vision tutorial and workshop. Code/[_GitHub_](https://github.com/a-abir/visionProcessingCV), Slides/[_GoogleSlides_](https://docs.google.com/presentation/d/1uTE1bVlFKwdo3SVFsP8bRh-AGqmWlPTIJwrbpo5JXm8/edit?usp=sharing)
+#### **GE Vernova Hitachi Nuclear Energy** — *Nuclear Fuel Performance and Design Intern*
+##### *May 2023 – Aug 2023*
+- Constructed a Python-based comprehensive database for 200+ BWR fuel units to identify failure signatures across five reactor sites.
+- Conducted root cause analysis (RCA) and failure assessments using thermal-mechanical models to identify high-risk reactor rod cells.
+- Presented critical failure findings to thermal-mechanical team, enabling data-driven preventative inspections and NQA-1 compliance.
 
-### SKILLS
-- **Programming & Computing:** Python (NumPy, SciPy, pandas, scikit-learn, OpenCV, Matplotlib, Seaborn), C++, MATLAB, JavaScript
-- **Data Analysis & Processing:** Statistical Signal Processing (FFT, PSD, DTW, MDS), Optimal Transport (1-Wasserstein Distance), Image Segmentation, Discrete-Event Simulation
-- **Engineering & CAD/CAM:** Solid Mechanics, Heat Transfer, Fusion 360, AutoCAD, 3D Mesh Processing (STL Slicing), Solid-State & Fusion Additive Manufacturing (AFSD, DED, WAAM)
-- **Manufacturing & Machining:** CNC Milling, CNC Waterjet/Laser Cutting, FDM 3D Printing, Process Diagnostics
+#### **FIRST Robotics (FRC) – Team 6517** — *Robotics Team Lead*
+##### *Aug 2016 – May 2020*
+- Directed design and manufacture of competitive robot components using SOLIDWORKS, Fusion 360, CNC milling, and 3D printing.
+- Led the curriculum development for Computer Science and Robotics while mentoring 30+ students in robot design, C++, and Python.
 
-### CERTIFICATIONS & EXTRACURRICULARS
-- **Engineer In Training (EIT)** Certification
-- [_1794 Scholars Program_](https://honors.utk.edu/1794-scholars-program/about/)
-- [_UT Lead_](https://studentsuccess.utk.edu/ut-lead/what-is-ut-lead/)
-- [_FIRST Alumni_](https://www.firstinspires.org/alumni)
+### TECHNICAL SKILLS
+- **Simulation & Analysis:** ANSYS Fluent, Mechanical, CFD, FEA, pyAnsys, topology optimization, heat transfer
+- **Programming & Controls:** Python (NumPy, OpenCV, TensorFlow), C++, MATLAB, Arduino, Closed-Loop Control
+- **Design & Manufacturing:** SOLIDWORKS (CSWA), GD&T, Additive Manufacturing (AFSD, FDM, SLA), CNC Milling
 
-### AWARDS
-- [ **Robert H. Leonard Service to Humanity Award** ](https://www.knoxoptimist.org/youth-awards/) — Optimist Club of Knoxville
-- **Captain Marcus Alford Memorial Award**
-- **SGT Eric Andrew Fifer Memorial Award**
-- **Superior Cadet** — SDHS JROTC
-
-### LANGUAGES
-- English, Bengali, Spanish, Hindi
+### AWARDS AND COMMUNITY SERVICE
+- **Academic:** Summa Cum Laude, 1794 Honors Scholar, Outstanding Senior & Junior in MAE, Order of the Engineer
+- **Service:** Keep Knoxville Beautiful, Habitat for Humanity
